@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj mips -o C:/Users/jinshenghao/mips/RegA_MUX.tfi -lib work C:/Users/jinshenghao/mips//MUX.v -module RegA_MUX -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,14 @@
+
+
+
+// Instantiate the module
+RegD_MUX instance_name (
+    .ALUresult(ALUresult), 
+    .RD(RD), 
+    .pc(pc), 
+    .MemtoReg(MemtoReg), 
+    .jal(jal), 
+    .WriteData(WriteData)
+    );
+
+

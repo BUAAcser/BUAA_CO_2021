@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj CPU_finaltest -o C:/Users/jinshenghao/CPU_finaltest/ALU.tfi -lib work C:/Users/jinshenghao/CPU_finaltest//ALU.v -module ALU -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

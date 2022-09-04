@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+RegA_MUX instance_name (
+    .rt(rt), 
+    .rd(rd), 
+    .RegDst(RegDst), 
+    .jal(jal), 
+    .A3(A3)
+    );
+
+

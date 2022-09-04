@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj mips -o C:/Users/jinshenghao/mips/IFU.tfi -lib work C:/Users/jinshenghao/mips//IFU.v -module IFU -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj mips -o C:/Users/jinshenghao/mips/IFU.tfi -lib work C:/Users/jinshenghao/mips//IFU.v -module IFU -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

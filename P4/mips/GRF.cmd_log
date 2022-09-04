@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj mips -o C:/Users/jinshenghao/mips/GRF.tfi -lib work C:/Users/jinshenghao/mips//GRF.v -module GRF -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

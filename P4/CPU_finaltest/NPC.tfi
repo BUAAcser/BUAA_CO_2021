@@ -1,0 +1,19 @@
+
+
+
+// Instantiate the module
+NPC instance_name (
+    .pc(pc), 
+    .imm(imm), 
+    .index(index), 
+    .RD1(RD1), 
+    .branch(branch), 
+    .ALUzero(ALUzero), 
+    .jump(jump), 
+    .jr(jr), 
+    .ifgtz(ifgtz), 
+    .bgtz(bgtz), 
+    .npc(npc)
+    );
+
+

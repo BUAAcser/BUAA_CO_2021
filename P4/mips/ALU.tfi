@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+ALU instance_name (
+    .dataA(dataA), 
+    .dataB(dataB), 
+    .ALUctrl(ALUctrl), 
+    .result(result), 
+    .ALUzero(ALUzero)
+    );
+
+

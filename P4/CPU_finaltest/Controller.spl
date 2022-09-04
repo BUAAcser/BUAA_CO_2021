@@ -1,0 +1,21 @@
+[Inputs]
+=opcode[5:0]=
+=func[5:0]=
+[Outputs]
+MemtoReg
+MemWrite
+ALUSrc
+RegDst
+RegWrite
+jump
+branch
+jal
+jr
+bgtz
+=ALUCtrl[2:0]=
+=EXT[1:0]=
+=DM_mode[1:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Controller
+

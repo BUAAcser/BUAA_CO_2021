@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+ALUdataB_MUX instance_name (
+    .RD2(RD2), 
+    .imm(imm), 
+    .ALUSrc(ALUSrc), 
+    .EXT(EXT), 
+    .ALUdataB(ALUdataB)
+    );
+
+
